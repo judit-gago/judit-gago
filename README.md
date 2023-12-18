@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @judit-gago
+- 👀 I’m interested in bioinformatics and genetics.
+- 🌱 I’m currently studying an undergraduate in Genetics (UAB).
+- 💞️ I’m looking looking forward to continue my studies by doing a master in bioinformatics.
+- 📫 How to reach me: judit.gago.gonzalez@gmail.com or www.linkedin.com/in/judit-gago-gonzalez
