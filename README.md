@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @judit-gago
-- 👀 I’m interested in bioinformatics and genetics.
-- :microscope: I’m currently studying an undergraduate in Genetics (UAB).
-- :computer: I’m looking looking forward to continue my studies by doing a master in bioinformatics.
+- 👀 I’m interested in bioinformatics and omics applied to oncology and immunology.
+- :computer: Currently studying a master's degree in Bioinformatics at Universitat Internacional de València.
+- :microscope: B.Sc. in Genetics
+Universitat Autònoma de Barcelona (UAB).
 - 📫 How to reach me: judit.gago.gonzalez@gmail.com or www.linkedin.com/in/judit-gago-gonzalez
